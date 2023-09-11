@@ -74,7 +74,7 @@ const App = () => {
       <div className="main">
         <div className="main-box">
           <h1 className="main-heading">Dorfie Labs</h1>
-          <h1 className="main-heading">Select your Country, State, City </h1>
+          <h1 className="main-heading">Select Your Country, State, City</h1>
 
           {/* Country dropdown */}
 
